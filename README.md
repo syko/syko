@@ -12,6 +12,8 @@ I am mostly experienced in web technologies but I also know my way around C# and
 
 [<img src="https://github-readme-stats.vercel.app/api?username=syko&show_icons=true&count_private=true&hide=contribs&hide_title=true&theme=github_dark" />][github]
 
+## Tools of the Trade
+
 ###
 
 [<img align="left" title="Visual Studio Code" width="32" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png?raw=true" />][github]
@@ -50,15 +52,17 @@ I am mostly experienced in web technologies but I also know my way around C# and
 
 ---
 
-### Codersrank stats
-
-[<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&show-avatar=false&username=syko&width=320&branding=false&badges=0&style=--header-bg-color:%233c5f86;--header-text-color:%23fff;--bg-color:%230d1117;--badge-bg-color:%231c2f45;--badge-text-color:%23eef;--badge-border-radius:1px;--badge-rank-font-size:0.6em;--badge-technology-font-size:0.5em;--badge-location-font-size:0.4em;--name-font-size:0.6em;--rank-font-size:0.5em;--border-radius:2px" />][codersrank]
-
-### More about me on [My PluralSight Profile](https://app.pluralsight.com/profile/syko)
+### 🏅 Check out [My PluralSight Profile](https://app.pluralsight.com/profile/syko)
 
 <br />
 
-## A Few Side Projects
+<!-- ## 🏆 Codersrank stats -->
+
+[<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&show-avatar=false&username=syko&width=320&branding=false&style=--header-bg-color:%233c5f86;--header-text-color:%23fff;--bg-color:%230d1117;--badge-bg-color:%231c2f45;--badge-text-color:%23eef;--badge-border-radius:1px;--badge-rank-font-size:0.6em;--badge-technology-font-size:0.5em;--badge-location-font-size:0.4em;--name-font-size:0.6em;--rank-font-size:0.5em;--border-radius:2px" />][codersrank]
+
+<br />
+
+## 🛠️ A Few Side Projects
 
 <table>
     <tr>
