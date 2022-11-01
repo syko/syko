@@ -52,7 +52,7 @@ I am mostly experienced in web technologies but I also know my way around C# and
 
 ---
 
-### 🏅 Check out [My PluralSight Profile](https://app.pluralsight.com/profile/syko)
+### 🏅 Check out [My PluralSight Skill IQs](https://app.pluralsight.com/profile/syko)
 
 <br />
 
