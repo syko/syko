@@ -8,10 +8,6 @@
 
 I am mostly experienced in web technologies but I also know my way around C# and Unity.
 
-<br />
-
-[<img src="https://github-readme-stats.vercel.app/api?username=syko&show_icons=true&count_private=true&hide=contribs&hide_title=true&theme=github_dark" />][github]
-
 ## Tools of the Trade
 
 ###
